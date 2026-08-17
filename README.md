@@ -35,7 +35,7 @@ Computer Science Engineering graduate with hands-on experience in full-stack dev
 - Workflow Automation
 - Cloud Deployment
 
-🧩 Solved *200+ DSA Problems* on LeetCode and GeeksforGeeks.
+ Solved *200+ DSA Problems* on LeetCode and GeeksforGeeks.
 
 💡 Passionate about building scalable software and exploring AI-powered applications.
 
